@@ -5,8 +5,8 @@ git commit -am "post" && git commit --amend --date='Mon, 11 Sep 2017 20:10:07 +0
 git commit -am "post" && git commit --amend --date='Tue, 12 Sep 2017 20:10:07 +0800' && ./push.sh
 git commit -am "post" && git commit --amend --date='Wed, 13 Sep 2017 20:10:07 +0800' && ./push.sh
 git commit -am "post" && git commit --amend --date='Thu, 14 Sep 2017 20:10:07 +0800' && ./push.sh
-git commit -am "post" && git commit --amend --date='Fri, 15 Sep 2017 20:10:07 +0800' && ./push.sh
-git commit -am "post" && git commit --amend --date='Sat, 16 Sep 2017 20:10:07 +0800' && ./push.sh
+//git commit -am "post" && git commit --amend --date='Fri, 15 Sep 2017 20:10:07 +0800' && ./push.sh
+//git commit -am "post" && git commit --amend --date='Sat, 16 Sep 2017 20:10:07 +0800' && ./push.sh
 
 //git commit -am "post" && git commit --amend --date='Sun, 17 Sep 2017 20:10:07 +0800' && ./push.sh
 //git commit -am "post" && git commit --amend --date='Mon, 18 Sep 2017 20:10:07 +0800' && ./push.sh
