@@ -1,1 +1,0 @@
-mv FILE FILE1 && mv FILE_ FILE_1 && git add . && git commit -am "post" && git commit --amend --date="Sat, 23 Sep 2017 18:33:05 +0800" && mv FILE1 FILE && mv FILE_1 FILE_ && git add . && git commit -am "post" && git commit --amend --date="Sat, 23 Sep 2017 18:33:05 +0800"
