@@ -1,0 +1,1 @@
+ git commit -am "post" && git commit --amend --date="Wed, 27 Sep 2017 18:33:05 +0800" && git push
