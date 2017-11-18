@@ -1,10 +1,5 @@
 #!/bin/sh
 
-
- mv ./FILE ./FILE1
- mv ./FILE_ ./FILE
- mv ./FILE1 ./FILE_
-
 # Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
 # git commit -am "post" && git commit --amend --date='Sun, 12 Nov 2017 20:10:07 +0800' && ./push.sh
