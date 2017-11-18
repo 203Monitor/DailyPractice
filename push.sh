@@ -1,9 +1,9 @@
 #!/bin/sh
 
 
-mv ./FILE ./FILE1
-mv ./FILE_ ./FILE
-mv ./FILE1 ./FILE_
+ mv ./FILE ./FILE1
+ mv ./FILE_ ./FILE
+ mv ./FILE1 ./FILE_
 
 # Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
