@@ -27,7 +27,7 @@
 # git commit -am "post" && git commit --amend --date='Tue, 9 Jan 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Wed, 10 Jan 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Thu, 11 Jan 2018 20:10:07 +0800' 
- git commit -am "post" && git commit --amend --date='Fri, 12 Jan 2018 20:10:07 +0800' 
-# git commit -am "post" && git commit --amend --date='Sat, 13 Jan 2018 20:10:07 +0800' 
+# git commit -am "post" && git commit --amend --date='Fri, 12 Jan 2018 20:10:07 +0800' 
+ git commit -am "post" && git commit --amend --date='Sat, 13 Jan 2018 20:10:07 +0800' 
  
  git push --force --tags origin 'refs/heads/*'
