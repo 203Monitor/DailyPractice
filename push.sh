@@ -6,7 +6,7 @@
  git config --global user.name "203monitor"
 
 
- git commit -am "post" && git commit --amend --date='Sun, 28 Dec 2018 20:10:07 +0800' 
+ git commit -am "post" && git commit --amend --date='Sun, 28 Jan 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Mon, 29 Jan 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Tue, 30 Jan 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Wed, 31 Jan 2018 20:10:07 +0800' 
