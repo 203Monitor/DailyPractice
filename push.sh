@@ -9,8 +9,8 @@
 # git commit -am "post" && git commit --amend --date='Sun, 21 Jan 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Mon, 29 Jan 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Tue, 30 Jan 2018 20:10:07 +0800' 
- git commit -am "post" && git commit --amend --date='Wed, 31 Jan 2018 20:10:07 +0800' 
-# git commit -am "post" && git commit --amend --date='Thu, 1 Feb 2018 20:10:07 +0800' 
+# git commit -am "post" && git commit --amend --date='Wed, 31 Jan 2018 20:10:07 +0800' 
+ git commit -am "post" && git commit --amend --date='Thu, 1 Feb 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Fri, 2 Feb 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Sat, 3 Feb 2018 20:10:07 +0800' 
  
