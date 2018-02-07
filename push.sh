@@ -8,8 +8,8 @@
 
 # git commit -am "post" && git commit --amend --date='Sun, 4 Feb 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Mon, 5 Feb 2018 20:10:07 +0800' 
- git commit -am "post" && git commit --amend --date='Tue, 6 Feb 2018 20:10:07 +0800' 
-# git commit -am "post" && git commit --amend --date='Wed, 7 Feb 2018 20:10:07 +0800' 
+# git commit -am "post" && git commit --amend --date='Tue, 6 Feb 2018 20:10:07 +0800' 
+ git commit -am "post" && git commit --amend --date='Wed, 7 Feb 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Thu, 8 Feb 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Fri, 9 Feb 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Sat, 10 Feb 2018 20:10:07 +0800' 
