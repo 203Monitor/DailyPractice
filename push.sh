@@ -10,8 +10,8 @@
 # git commit -am "post" && git commit --amend --date='Mon, 23 Apr 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Tue, 24 Apr 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Wed, 25 Apr 2018 20:10:07 +0800' 
- git commit -am "post" && git commit --amend --date='Thu, 26 Apr 2018 20:10:07 +0800' 
-# git commit -am "post" && git commit --amend --date='Fri, 27 Apr 2018 20:10:07 +0800' 
+# git commit -am "post" && git commit --amend --date='Thu, 26 Apr 2018 20:10:07 +0800' 
+ git commit -am "post" && git commit --amend --date='Fri, 27 Apr 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Sat, 28 Apr 2018 20:10:07 +0800' 
  
  git push --force --tags origin 'refs/heads/*'
