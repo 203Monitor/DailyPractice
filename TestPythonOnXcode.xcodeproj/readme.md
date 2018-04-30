@@ -15,6 +15,8 @@ vim shift加: x 保存 |
 队列有几种:1.main 2.后台 3.优先级（三种） |
 在主线程同步请求会死锁 |
 只能在主线程中刷新UI |
+atom  json格式化  shift+commond+p  pretty |
+
 
 
 启动图    |||
