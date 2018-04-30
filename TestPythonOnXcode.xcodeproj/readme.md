@@ -68,13 +68,11 @@ dispatch_sync(dispatch_get_main_queue(),
 )
 ```
 ```
-pch 设置prefix header
-
-	<key>NSAppTransportSecurity</key>
-	<dict>
-		<key>NSAllowsArbitraryLoads</key>
-		<true/>
-	</dict>
+<key>NSAppTransportSecurity</key>
+<dict>
+    <key>NSAllowsArbitraryLoads</key>
+    <true/>
+</dict>
 ```
 ```
 [[NSString alloc] initWithData: [NSJSONSerialization dataWithJSONObject:responseObject options:kNilOptions error:nil] encoding: NSUTF8StringEncoding]
