@@ -11,6 +11,10 @@ jsbridge |
 视图的阴影根据背景色渲染，透明的背景色就会按照内部的文字或图片渲染 |
 didappear才能调用presentViewController |
 app启动图需要三张 |
+vim shift加: x 保存 |
+队列有几种:1.main 2.后台 3.优先级（三种） |
+在主线程同步请求会死锁 |
+只能在主线程中刷新UI |
 
 
 启动图    |||
@@ -28,7 +32,6 @@ Retina 4 | 4.7"     | 5.5"
 以太网-head + IP-head + UDP/TCP-head + Data
 以太网数据包->HEAD + IP数据包->HEAD + UDP/TCP数据包->HEAD + 应用层协议数据包
 ```
-
 ```
 #pragma mark - 万能隐藏键盘
 - (void)setUpForDismissKeyboard {
@@ -55,3 +58,27 @@ Retina 4 | 4.7"     | 5.5"
     [self.view endEditing:YES];
 }
 ```
+```
+//获取某个线程
+dispatch_sync(dispatch_get_main_queue(),
+ //做你要在主线程里要做的事
+ ^(){
+
+ }
+)
+```
+```
+pch 设置prefix header
+
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+```
+```
+[[NSString alloc] initWithData: [NSJSONSerialization dataWithJSONObject:responseObject options:kNilOptions error:nil] encoding: NSUTF8StringEncoding]
+```
+
+
+
