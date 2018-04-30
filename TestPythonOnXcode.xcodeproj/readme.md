@@ -80,6 +80,11 @@ dispatch_sync(dispatch_get_main_queue(),
 ```
 expr (Class)NSClassFromString(@"IBARevealLoader") == nil ? (void *)dlopen("/Applications/Reveal.app/Contents/SharedSupport/iOS-Libraries/RevealServer.framework/RevealServer", 0x2) : ((void*)0)
 ```
-
+```
+ssh -T git@git.oschina.net
+使用git之前一定要先配置
+git config --global user.name "203Monitor"
+git config --global user.email "930502900@qq.com"
+```
 
 
