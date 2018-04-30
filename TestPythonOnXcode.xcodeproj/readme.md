@@ -77,6 +77,9 @@ dispatch_sync(dispatch_get_main_queue(),
 ```
 [[NSString alloc] initWithData: [NSJSONSerialization dataWithJSONObject:responseObject options:kNilOptions error:nil] encoding: NSUTF8StringEncoding]
 ```
+```
+expr (Class)NSClassFromString(@"IBARevealLoader") == nil ? (void *)dlopen("/Applications/Reveal.app/Contents/SharedSupport/iOS-Libraries/RevealServer.framework/RevealServer", 0x2) : ((void*)0)
+```
 
 
 
