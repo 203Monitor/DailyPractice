@@ -7,8 +7,8 @@
 
 
 # git commit -am "post" && git commit --amend --date='Sun, 6 May 2018 20:10:07 +0800' 
- git commit -am "post" && git commit --amend --date='Mon, 7 May 2018 20:10:07 +0800' 
-# git commit -am "post" && git commit --amend --date='Tue, 8 May 2018 20:10:07 +0800' 
+# git commit -am "post" && git commit --amend --date='Mon, 7 May 2018 20:10:07 +0800' 
+ git commit -am "post" && git commit --amend --date='Tue, 8 May 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Wed, 9 May 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Thu, 10 May 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Fri, 11 May 2018 20:10:07 +0800' 
