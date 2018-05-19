@@ -11,8 +11,8 @@
 # git commit -am "post" && git commit --amend --date='Tue, 15 May 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Wed, 16 May 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Thu, 17 May 2018 20:10:07 +0800' 
- git commit -am "post" && git commit --amend --date='Fri, 18 May 2018 20:10:07 +0800' 
-# git commit -am "post" && git commit --amend --date='Sat, 19 May 2018 20:10:07 +0800' 
+# git commit -am "post" && git commit --amend --date='Fri, 18 May 2018 20:10:07 +0800' 
+ git commit -am "post" && git commit --amend --date='Sat, 19 May 2018 20:10:07 +0800' 
  
 # git commit -am "post" && git commit --amend --date='Sun, 20 May 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Mon, 21 May 2018 20:10:07 +0800' 
