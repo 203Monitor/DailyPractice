@@ -22,7 +22,7 @@
 # git commit -am "post" && git commit --amend --date='Fri, 5 Jan 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Sat, 6 Jan 2018 20:10:07 +0800' 
 
- git commit -am "post" && git commit --amend --date='Sun, 7 Jan 2018 20:10:07 +0800' 
+# git commit -am "post" && git commit --amend --date='Sun, 7 Jan 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Mon, 8 Jan 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Tue, 9 Jan 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Wed, 10 Jan 2018 20:10:07 +0800' 
@@ -30,7 +30,7 @@
 # git commit -am "post" && git commit --amend --date='Fri, 12 Jan 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Sat, 13 Jan 2018 20:10:07 +0800' 
 
-# git commit -am "post" && git commit --amend --date='Sun, 14 Dec 2018 20:10:07 +0800' 
+ git commit -am "post" && git commit --amend --date='Sun, 14 Dec 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Mon, 15 Jan 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Tue, 16 Jan 2018 20:10:07 +0800' 
 # git commit -am "post" && git commit --amend --date='Wed, 17 Jan 2018 20:10:07 +0800' 
